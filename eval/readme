@@ -1,0 +1,26 @@
+Group Name : Evaluators
+
+Project Name : Automated Evaluation of Programming Assignments - Java
+
+Team mates : M.Pranith Reddy(IMT2015025)
+	     M.Karthikeya Reddy(IMT2015026)
+	     G.Sravya(IMT2015014)
+
+
+To Compile the project :-
+
+- type the command 'make' in the terminal to compile the project. 
+
+To run the project :-
+
+- Place the reference solution in the Reference directory and the assignment solutions in the Solutions/src directory. 
+- Then type the command 'make run' in the terminal to run the project.
+
+Note :- 
+
+- auto_gen directory contains the code for automatic generation of test cases.
+- Code directory contains the source code for the project.
+- Reference directory contains the correct solution to a problem taken as reference solution.
+- org,lib directory contains the 'bcel.jar' required for the project to run.
+- TestCases directory will contain the test cases generated for a given solution.
+
